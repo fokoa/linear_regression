@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Optimization methods for Linear Regression
 
 We code from scratch optimization methods for the resolution
@@ -25,8 +25,5 @@ we will implement:
 ## References
 [1] S. Ruder, “An overview of gradient descent optimization algorithms,” in arXiv preprint arXiv:1609.04747, 2016.
 
-[2] https://github.com/fokoa/prepare\_some\_data
+[2] [Link](https://github.com/fokoa/prepare_some_data)
 
-=======
-# linear_regression
->>>>>>> cad0b9635fbb7de3e12b95a473d14cffc4334610
