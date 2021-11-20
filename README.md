@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Optimization methods for Linear Regression
 
 We code from scratch optimization methods for the resolution
@@ -26,3 +27,6 @@ we will implement:
 
 [2] https://github.com/fokoa/prepare\_some\_data
 
+=======
+# linear_regression
+>>>>>>> cad0b9635fbb7de3e12b95a473d14cffc4334610
